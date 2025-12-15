@@ -1,0 +1,5 @@
+Nama Model,Spearman Correlation,Path
+NusaBERT Base,0.8983172198379431,D:\71210730\Eval\\\Trained_SBERT\\finetuned_all-nusabert-base_v1
+SimCSE IndoBERT,0.8957760336268364,D:\71210730\Eval\\\Trained_SBERT\\finetuned_simcse-indobert-base_v1
+Indo-E5 Small,0.8894312026774045,D:\71210730\Eval\\\Trained_SBERT\\finetuned_indo_e5_v1
+NusaBERT Large,0.8795560285678833,D:\71210730\Eval\\\Trained_SBERT\\finetuned_nusabert_large_v1

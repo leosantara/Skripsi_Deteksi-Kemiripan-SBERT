@@ -1,0 +1,5 @@
+# 1. Abaikan SEMUA file di dalam folder model
+model/*
+
+# 2. KECUALI file .gitkeep (agar folder tetap dianggap "berisi" dan dilacak)
+!model/.gitkeep

@@ -1,0 +1,42 @@
+
+.app-container {
+    min-height: 100vh;
+    position: relative;
+}
+
+.btn-delete-user {
+    width: 40px;
+    text-align: center;
+    box-sizing: content-box;
+}
+.form-group.col .form-check-input {
+    margin-left: 10px;
+}
+
+.form-control{
+    margin-bottom: 5px;
+}
+
+hr{
+    height:1.5px;
+    border:none;
+    color:#333;
+    background-color:#333;
+}
+
+tr:hover{
+    cursor: pointer;
+    background: mediumseagreen !important;
+}
+tr:hover td{
+    background: transparent;
+}
+
+.myDownloadLink{
+    text-decoration: none;
+}
+.myDownloadLink:hover{
+    cursor: pointer;
+    color: crimson;
+    text-decoration:underline
+}

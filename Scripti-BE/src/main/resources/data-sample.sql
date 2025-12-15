@@ -1,0 +1,11 @@
+-- insert into teacher (ID, EMPLOYMENT_NUMBER, NAME, GENDER, DAY_OF_BIRTH, BIRTH_PLACE, ADDRESS, INPUT_DATE, URL_GOOGLE_SCHOLAR)
+-- values ('TCR001', 'EN001', 'Dendy' , 'Male', '40-12-1091','Earth','Indonesia',CURRENT_TIMESTAMP ,'https://google.scholar.com');
+--
+-- insert into student(ID, REGISTER_YEAR, NAME, GENDER, DAY_OF_BIRTH, BIRTH_PLACE, ADDRESS, INPUT_DATE)
+-- values ('STD001', '2024', 'Prtha' , 'Male', '30-12-2887','Indonesia','Earth', CURRENT_TIMESTAMP);
+--
+-- insert into user_account (ID, ACCESS_TOKEN, ID_TOKEN, REFRESH_TOKEN, FCM_TOKEN, REG_NUMBER, EMAIL, IMAGE_URL, ROLE)
+-- values (NEXT VALUE FOR USER_SEQ,'', '' , '', '', 'TCR001', 'dendy.prtha@staff.ukdw.ac.id', '', 'ADMIN');
+--
+-- insert into user_account (ID, ACCESS_TOKEN, ID_TOKEN, REFRESH_TOKEN, FCM_TOKEN, REG_NUMBER, EMAIL, IMAGE_URL, ROLE)
+-- values (NEXT VALUE FOR USER_SEQ,'', '' , '', '', 'STD001', 'prtha@student.ukdw.ac.id', '', 'STUDENT');
